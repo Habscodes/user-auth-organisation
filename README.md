@@ -1,5 +1,5 @@
 # user-auth-org
-API documentation on GitHub for user authentication and organization management system HNG track2 
+API documentation on GitHub for user authentication and organization management system HNG Backend Stage 2 Project
 
 # User Authentication & Organisation Management API Documentation
 
